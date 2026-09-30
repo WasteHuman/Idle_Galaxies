@@ -1,0 +1,4 @@
+repository "Cloud Repositories/Idle Galaxies@10170766957001@cloud"
+  path "/"
+    br "/main"
+    co "/main"
